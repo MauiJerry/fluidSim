@@ -1,5 +1,5 @@
 Fluid Sim Readme
-this is a recreation of 
+this is an IN-PROCESS recreation of 
 ThreeDashes (Bruno Imbrizi) fluid sim:
 	https://www.youtube.com/watch?v=2k6H5Qa_fCE
 	nice walk thru video, one of several tutorials from 3y ago (2020?)
